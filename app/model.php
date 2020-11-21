@@ -1,9 +1,9 @@
 <?php require_once('include/connection.php'); ?>
 <?php
-	$first_name='jihani';
-	$last_name='Nanayakkara';
-	$email='jj@gmail.com';
-	$password='jee123';
+	$first_name='jee1';
+	$last_name='nova';
+	$email='jeny@gmail.com';
+	$password='jeny@123';
 	$is_deleted=0;
 
 
